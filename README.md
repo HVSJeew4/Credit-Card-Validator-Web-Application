@@ -1,0 +1,2 @@
+# Credit Card Validator Web Application
+ This is a Credit Card Validator Web Application developed to validate credit card numbers in real-time. The application allows users to input a credit card number and verifies its validity using a backend API. It identifies the card type (e.g., Visa, Mastercard) and displays the validation status to the user.  The project is designed with a ReactJS/jQuery frontend and an ASP.NET Core Web API backend. It uses CORS policies to handle cross-origin requests during development.
