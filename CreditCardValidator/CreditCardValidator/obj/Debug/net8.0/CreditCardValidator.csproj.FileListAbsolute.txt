@@ -1,0 +1,6 @@
+E:\WORK\DevArt Soctware Technical Assignment\Card Validator\CreditCardValidator\CreditCardValidator\obj\Debug\net8.0\CreditCardValidator.csproj.AssemblyReference.cache
+E:\WORK\DevArt Soctware Technical Assignment\Card Validator\CreditCardValidator\CreditCardValidator\obj\Debug\net8.0\CreditCardValidator.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORK\DevArt Soctware Technical Assignment\Card Validator\CreditCardValidator\CreditCardValidator\obj\Debug\net8.0\CreditCardValidator.AssemblyInfoInputs.cache
+E:\WORK\DevArt Soctware Technical Assignment\Card Validator\CreditCardValidator\CreditCardValidator\obj\Debug\net8.0\CreditCardValidator.AssemblyInfo.cs
+E:\WORK\DevArt Soctware Technical Assignment\Card Validator\CreditCardValidator\CreditCardValidator\obj\Debug\net8.0\CreditCardValidator.csproj.CoreCompileInputs.cache
+E:\WORK\DevArt Soctware Technical Assignment\Card Validator\CreditCardValidator\CreditCardValidator\obj\Debug\net8.0\CreditCardValidator.MvcApplicationPartsAssemblyInfo.cache

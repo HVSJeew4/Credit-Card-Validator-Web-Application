@@ -1,0 +1,32 @@
+/* General styles */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    color: #343a40;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 1.8rem;
+    color: #007bff;
+}
+
+button {
+    font-size: 1rem;
+}
+
+.alert {
+    font-size: 1rem;
+}
+
+#result {
+    display: none;
+}

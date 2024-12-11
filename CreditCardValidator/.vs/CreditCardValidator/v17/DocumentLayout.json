@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|e:\\work\\devart soctware technical assignment\\card validator\\creditcardvalidator\\creditcardvalidator\\controllers\\cardvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|solutionrelative:creditcardvalidator\\controllers\\cardvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|e:\\work\\devart soctware technical assignment\\card validator\\creditcardvalidator\\creditcardvalidator\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|solutionrelative:creditcardvalidator\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|e:\\work\\devart soctware technical assignment\\card validator\\creditcardvalidator\\creditcardvalidator\\domain\\cardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|solutionrelative:creditcardvalidator\\domain\\cardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|e:\\work\\devart soctware technical assignment\\card validator\\creditcardvalidator\\creditcardvalidator\\models\\cardvalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|solutionrelative:creditcardvalidator\\models\\cardvalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|e:\\work\\devart soctware technical assignment\\card validator\\creditcardvalidator\\creditcardvalidator\\services\\cardvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|solutionrelative:creditcardvalidator\\services\\cardvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|e:\\work\\devart soctware technical assignment\\card validator\\creditcardvalidator\\creditcardvalidator\\services\\icardvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|solutionrelative:creditcardvalidator\\services\\icardvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|e:\\work\\devart soctware technical assignment\\card validator\\creditcardvalidator\\creditcardvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|solutionrelative:creditcardvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|e:\\work\\devart soctware technical assignment\\card validator\\creditcardvalidator\\creditcardvalidator\\models\\cardvalidationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873A0AB1-7E70-43FF-9AF9-A8B30B4580AD}|CreditCardValidator\\CreditCardValidator.csproj|solutionrelative:creditcardvalidator\\models\\cardvalidationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardValidationResult.cs",
+              "DocumentMoniker": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Models\\CardValidationResult.cs",
+              "RelativeDocumentMoniker": "CreditCardValidator\\Models\\CardValidationResult.cs",
+              "ToolTip": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Models\\CardValidationResult.cs",
+              "RelativeToolTip": "CreditCardValidator\\Models\\CardValidationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:44:21.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICardValidationService.cs",
+              "DocumentMoniker": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Services\\ICardValidationService.cs",
+              "RelativeDocumentMoniker": "CreditCardValidator\\Services\\ICardValidationService.cs",
+              "ToolTip": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Services\\ICardValidationService.cs",
+              "RelativeToolTip": "CreditCardValidator\\Services\\ICardValidationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:43:35.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CreditCardValidator\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CreditCardValidator\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:57:56.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardValidationController.cs",
+              "DocumentMoniker": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Controllers\\CardValidationController.cs",
+              "RelativeDocumentMoniker": "CreditCardValidator\\Controllers\\CardValidationController.cs",
+              "ToolTip": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Controllers\\CardValidationController.cs",
+              "RelativeToolTip": "CreditCardValidator\\Controllers\\CardValidationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:39:08.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardValidationService.cs",
+              "DocumentMoniker": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Services\\CardValidationService.cs",
+              "RelativeDocumentMoniker": "CreditCardValidator\\Services\\CardValidationService.cs",
+              "ToolTip": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Services\\CardValidationService.cs",
+              "RelativeToolTip": "CreditCardValidator\\Services\\CardValidationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:38:09.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardValidator.cs",
+              "DocumentMoniker": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Domain\\CardValidator.cs",
+              "RelativeDocumentMoniker": "CreditCardValidator\\Domain\\CardValidator.cs",
+              "ToolTip": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Domain\\CardValidator.cs",
+              "RelativeToolTip": "CreditCardValidator\\Domain\\CardValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:37:35.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CardValidationRequest.cs",
+              "DocumentMoniker": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Models\\CardValidationRequest.cs",
+              "RelativeDocumentMoniker": "CreditCardValidator\\Models\\CardValidationRequest.cs",
+              "ToolTip": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Models\\CardValidationRequest.cs",
+              "RelativeToolTip": "CreditCardValidator\\Models\\CardValidationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:37:11.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Program.cs",
+              "RelativeDocumentMoniker": "CreditCardValidator\\Program.cs",
+              "ToolTip": "E:\\WORK\\DevArt Soctware Technical Assignment\\Card Validator\\CreditCardValidator\\CreditCardValidator\\Program.cs",
+              "RelativeToolTip": "CreditCardValidator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:34:26.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
